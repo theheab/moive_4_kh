@@ -43,11 +43,12 @@ body {
     display: none;
   }
   .content-page {
-    background-color: #ffffff;
+    background-color: #3e3939;
     width: 80%;
     height: 200vh;
     margin: auto;
   }
+  
 /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px)  {
   .topnav a {
